@@ -12,7 +12,7 @@ __Skills__
 
  * SQL - advanced sql writing skills  
  * Python (Pandas, Matpotlib, Seaborn, Numpy)  
- * Power BI/ Power Query/ Power Pivot/ Dax Studio  
+ * Data Analysis : Power BI/ Power Query/ Power Pivot/ Dax Studio  
  * Tableau  
  * ETL process  
  * MongoDB  
